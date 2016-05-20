@@ -33,11 +33,11 @@ require 'capistrano/fpm'
 
 `capistrano/fpm` comes with 5 tasks:
 
-* fpm:reload 
+* fpm:reload
 * fpm:restart
-* fpm:start  
-* fpm:stop   
-* fpm:zap    
+* fpm:start
+* fpm:stop
+* fpm:zap
 
 You can execute the task on command line:
 
