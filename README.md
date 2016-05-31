@@ -7,7 +7,7 @@ Capistrano extension for PHP-FPM tasks
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'capistrano', '~> 3.1.0'
+gem 'capistrano', '~> 3.2'
 gem 'capistrano-fpm'
 ```
 
