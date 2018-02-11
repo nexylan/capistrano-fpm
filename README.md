@@ -2,6 +2,16 @@
 
 Capistrano extension for PHP-FPM tasks
 
+:warning: **This package has been moved to an official repository** :warning:
+
+This page contains the documentation of the **version 1** of this plugin.
+For future versions, please checkout this one:
+https://github.com/capistrano-plugins/capistrano-php-fpm
+
+The gem name has changed to `capistrano-php-fpm`. The versions 1 and lower correspond to this repository.
+
+Therefore, this repository will not receive any update anymore.
+
 ## Installation
 
 Add this line to your application's Gemfile:
